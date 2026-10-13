@@ -1,0 +1,16 @@
+{"name": "d50", "mode": "z", "corner": 0.22, "value": 8.01287919388121, "mass": 3.8844000000000003, "pitch": 1.6283185307179586, "seconds": 3.5}
+{"name": "d35", "mode": "z", "corner": 0.22, "value": 5.6243035805203005, "mass": 3.8844000000000003, "pitch": 2.326169329597084, "seconds": 4.5}
+{"name": "solid", "mode": "z", "corner": 0.22, "value": 23.182576107386147, "mass": 3.4704, "pitch": 0.40907963267948966, "seconds": 3.1}
+{"name": "d35_pin8_f100", "mode": "z", "corner": 0.22, "value": 28.52258011280788, "mass": 15.703600000000002, "pitch": 2.326169329597084, "seconds": 53.1}
+{"name": "d35_pin8_f80", "mode": "z", "corner": 0.22, "value": 28.239475856097457, "mass": 15.703600000000002, "pitch": 2.326169329597084, "seconds": 60.1}
+{"name": "d50_pin8_f80", "mode": "z", "corner": 0.22, "value": 27.87498240230801, "mass": 11.255600000000001, "pitch": 1.6283185307179586, "seconds": 31.7}
+{"name": "d35_pin4_f100", "mode": "z", "corner": 0.22, "value": 27.415372963564394, "mass": 15.690800000000001, "pitch": 2.326169329597084, "seconds": 52.3}
+{"name": "d35", "mode": "brittle", "corner": 0.22, "value": 3.273163144331873, "mass": 3.8844000000000003, "pitch": 2.326169329597084, "seconds": 4.0}
+{"name": "d50", "mode": "brittle", "corner": 0.22, "value": 4.6033137543469635, "mass": 3.8844000000000003, "pitch": 1.6283185307179586, "seconds": 3.9}
+{"name": "solid", "mode": "brittle", "corner": 0.22, "value": 13.921053537711613, "mass": 3.4704, "pitch": 0.40907963267948966, "seconds": 1.7}
+{"name": "d50_pin8_f100", "mode": "z", "corner": 0.22, "value": 28.194703163158245, "mass": 11.255600000000001, "pitch": 1.6283185307179586, "seconds": 30.9}
+{"name": "d35_pin8_f80", "mode": "brittle", "corner": 0.22, "value": 15.524083152051748, "mass": 15.703600000000002, "pitch": 2.326169329597084, "seconds": 33.5}
+{"name": "d35_pin8_f100", "mode": "brittle", "corner": 0.22, "value": 14.457440418820223, "mass": 15.703600000000002, "pitch": 2.326169329597084, "seconds": 45.6}
+{"name": "d50_pin8_f80", "mode": "brittle", "corner": 0.22, "value": 14.120270063316896, "mass": 11.255600000000001, "pitch": 1.6283185307179586, "seconds": 12.2}
+{"name": "d35_pin4_f100", "mode": "brittle", "corner": 0.22, "value": 13.780481237595184, "mass": 15.690800000000001, "pitch": 2.326169329597084, "seconds": 47.4}
+{"name": "d50_pin8_f100", "mode": "brittle", "corner": 0.22, "value": 13.479497091695832, "mass": 11.255600000000001, "pitch": 1.6283185307179586, "seconds": 18.4}

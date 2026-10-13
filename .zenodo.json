@@ -1,0 +1,10 @@
+{
+  "title": "A Bonding Experience: The Open-Source New Frontier of Z-Delamination Resistance (a hobbyist's field guide to Z-strength in FDM printing without tripping over patents, including a defensive publication of PinLoK, pinned infill)",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "A lab notebook of twelve ways to make FDM prints stronger between layers without beads of different heights, judged with a 2-D bead-by-bead strength model and checked against published tests. Pinned Grid infill (PinLoK), building on Oak Ridge National Laboratory's Z-pinning, was the only method to clear a 7 % target by a wide margin in simulation (+16 to +27 % against solid infill of the same weight). All strength figures are theoretical simulation results, not measurements. Section 9 is a defensive disclosure of PinLoK and its variations; the methods are dedicated to the public. Model results only; nothing has been printed and tested yet.",
+  "creators": [{"name": "Armstrong, Matthew"}],
+  "license": "cc-by-sa-4.0",
+  "keywords": ["3D printing", "FDM", "fused filament fabrication", "layer adhesion", "interlayer strength", "z-pinning", "pinned infill", "defensive publication", "prior art"],
+  "language": "eng"
+}
