@@ -50,6 +50,16 @@ Printed parts snap along their layers. The famous fix, staggering walls by half 
 
 The full app (LoK Walls: FlatLock, PinLoK and a locked brick-layer pattern, with installers for Cura, PrusaSlicer and OrcaSlicer) is in a separate repository, to be published after ADDMAN, the brick-layer patent holder, has been asked. I haven't contacted them yet; I intend to.
 
+## Research paper
+
+**[A Bonding Experience: The Open-Source New Frontier of Z-Delamination Resistance (a hobbyist's field guide to Z-strength in FDM printing without tripping over patents, including a defensive publication of PinLoK, pinned infill)](PAPER.md)** (version 1.0, first published 13 October 2026) · [PDF](a-bonding-experience-v1.0.pdf)
+
+>-
+
+The paper's text and figures: [CC BY-SA 4.0](LICENSE.md)
+
+**How to cite:** Armstrong, M. (2026). *A Bonding Experience: The Open-Source New Frontier of Z-Delamination Resistance (a hobbyist's field guide to Z-strength in FDM printing without tripping over patents, including a defensive publication of PinLoK, pinned infill).* Version 1.0, 13 October 2026. https://the-dorkknight.github.io/a-bonding-experience/
+
 ## Licence
 
 - **Paper text and figures:** [CC BY-SA 4.0](LICENSE.md). Share and adapt freely; adaptations credit this and stay CC BY-SA.
